@@ -1,2 +1,2 @@
-# nlp-ensae-2021
+# ml-for-nlp-ensae-2021
 Natural language processing project
